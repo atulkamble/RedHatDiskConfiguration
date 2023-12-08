@@ -1,6 +1,8 @@
 # RedHatDiskConfiguration
 - Red Hat Manual Disk Configuration for Installation
-- When configuring disk partitions for a Red Hat Enterprise Linux (RHEL) installation, it's essential to consider factors such as the system's purpose, the applications it will run, and the available disk space. Below is a generic guideline with minimum, maximum, and preferred sizes for different partitions. Adjust these sizes based on your specific needs.
+- When configuring disk partitions for a Red Hat Enterprise Linux (RHEL) installation, it's essential to consider factors such as the system's purpose, the applications it will run, and the available disk space.
+- Below is a generic guideline with minimum, maximum, and preferred sizes for different partitions.
+- Adjust these sizes based on your specific needs.
 - Assuming you are using LVM for flexibility:
 
 # /boot Partition:
